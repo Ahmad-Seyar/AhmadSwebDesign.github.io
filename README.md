@@ -1,2 +1,2 @@
-# AhmadSwebDesign.github.io
+# ahmadswebDesign.github.io
 web designing and development for every one
